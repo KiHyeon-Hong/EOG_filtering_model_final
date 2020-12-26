@@ -20,4 +20,4 @@ https://kihyeon-hong.github.io/EOG_filtering_model_final/EOG_filtering_model_rep
 
 ### ROC Curve
 https://kihyeon-hong.github.io/EOG_filtering_model_final/EOG_filtering_model_report_depth_total_add.html
-https://kihyeon-hong.github.io/EOG_filtering_model_final/EOG_filtering_model_report_depth_total_add1.html
+https://kihyeon-hong.github.io/EOG_filtering_model_final/EOG_filtering_model_report_depth_total_add2.html
