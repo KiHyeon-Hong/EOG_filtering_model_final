@@ -33,4 +33,4 @@ https://readystory.tistory.com/115
 
 ### Final version
 - https://kihyeon-hong.github.io/EOG_filtering_model_final/EOG_filtering_model_report_final.html
-- https://kihyeon-hong.github.io/EOG_filtering_model_final/EOG_filtering_model_report_ROC_curve.html
+- https://kihyeon-hong.github.io/EOG_filtering_model_final/EOG_filtering_model_report_depth_ROC_curve.html
