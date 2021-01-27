@@ -29,3 +29,8 @@ https://kihyeon-hong.github.io/EOG_filtering_model_final/EOG_filtering_model_rep
 
 ### keras 설치 방법
 https://readystory.tistory.com/115
+
+
+### Final version
+- https://kihyeon-hong.github.io/EOG_filtering_model_final/EOG_filtering_model_report_final.html
+- https://kihyeon-hong.github.io/EOG_filtering_model_final/EOG_filtering_model_report_ROC_curve.html
