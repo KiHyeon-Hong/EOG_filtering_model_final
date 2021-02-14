@@ -1,5 +1,4 @@
 # EOG_filtering_model_final
-EOG_filtering_model_final
 
 ### depth1
 https://kihyeon-hong.github.io/EOG_filtering_model_final/EOG_filtering_model_report_depth1.html
